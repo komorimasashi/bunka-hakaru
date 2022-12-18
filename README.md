@@ -9,6 +9,7 @@
 * Py_Fourier_descriptor.ipynb: 写真から輪郭を抽出し，楕円フーリエ記述子による輪郭形状の分析をします（Python）
 * Py_concordance.ipynb: 音の協和，不協和を体感するために音の波形の表示や倍音の生成などを行います（Python）
 * Py_correlation.ipynb: 相関係数に関する説明とPythonによる求め方（Python）
+* Py_RGB.ipynb: 画像を読み込み画像中のRGB値を取り出すためのプログラムです（Python）
 * Py_facemesh.ipynb: 顔の標識店座標を取得するプログラム（Python）
 * Py_morphological_analysis.ipynb: 形態素解析やtf-idf，コサイン類似度の計算を行います（Python）
 * R_0_introduction.ipynb: Rの基本的な使い方（R）
